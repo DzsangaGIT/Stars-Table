@@ -1,0 +1,14 @@
+D:\xdddd\bin\Debug\net8.0\xdddd.exe
+D:\xdddd\bin\Debug\net8.0\xdddd.deps.json
+D:\xdddd\bin\Debug\net8.0\xdddd.runtimeconfig.json
+D:\xdddd\bin\Debug\net8.0\xdddd.dll
+D:\xdddd\bin\Debug\net8.0\xdddd.pdb
+D:\xdddd\obj\Debug\net8.0\xdddd.GeneratedMSBuildEditorConfig.editorconfig
+D:\xdddd\obj\Debug\net8.0\xdddd.AssemblyInfoInputs.cache
+D:\xdddd\obj\Debug\net8.0\xdddd.AssemblyInfo.cs
+D:\xdddd\obj\Debug\net8.0\xdddd.csproj.CoreCompileInputs.cache
+D:\xdddd\obj\Debug\net8.0\xdddd.dll
+D:\xdddd\obj\Debug\net8.0\refint\xdddd.dll
+D:\xdddd\obj\Debug\net8.0\xdddd.pdb
+D:\xdddd\obj\Debug\net8.0\xdddd.genruntimeconfig.cache
+D:\xdddd\obj\Debug\net8.0\ref\xdddd.dll
